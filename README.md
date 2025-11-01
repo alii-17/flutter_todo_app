@@ -11,7 +11,7 @@ This project focuses on layout, styling, and responsive design — no backend or
 ## 🖼️ Preview
 | Start Screen | Home Screen | Add Task Screen |
 |--------------|------------|----------------|
-| ![Start Screen](screenshots/Strat.png) | ![Home Screen](screenshots/Home.png) | ![Add Task Screen](screenshots/Add.png) |
+| ![Start Screen](screenshots/Start.png) | ![Home Screen](screenshots/Home.png) | ![Add Task Screen](screenshots/Add.png) |
 
 ## 🚀 Run the Project
 ```bash
