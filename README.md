@@ -9,9 +9,9 @@ This project focuses on layout, styling, and responsive design — no backend or
 - Based on Flutter Material widgets
 
 ## 🖼️ Preview
-| Home Screen | Task Card | Add Task Dialog |
+| Start Screen | Home Screen | Add Task Screen |
 |--------------|------------|----------------|
-| ![Start](C:\Users\Ali\OneDrive\Pictures\Screenshots\Screenshot 2025-11-01 173132) | ![Home](C:\Users\Ali\OneDrive\Pictures\Screenshots\Screenshot 2025-11-01 173148) | ![Add](C:\Users\Ali\OneDrive\Pictures\Screenshots\Screenshot 2025-11-01 173252) |
+| ![Start Screen](screenshots/Strat.png) | ![Home Screen](screenshots/Home.png) | ![Add Task Screen](screenshots/Add.png) |
 
 ## 🚀 Run the Project
 ```bash
