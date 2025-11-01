@@ -11,7 +11,7 @@ This project focuses on layout, styling, and responsive design — no backend or
 ## 🖼️ Preview
 | Home Screen | Task Card | Add Task Dialog |
 |--------------|------------|----------------|
-| ![Home](screenshots/home.png) | ![Card](screenshots/card.png) | ![Add](screenshots/add.png) |
+| ![Start](C:\Users\Ali\OneDrive\Pictures\Screenshots\Screenshot 2025-11-01 173132) | ![Home](C:\Users\Ali\OneDrive\Pictures\Screenshots\Screenshot 2025-11-01 173148) | ![Add](C:\Users\Ali\OneDrive\Pictures\Screenshots\Screenshot 2025-11-01 173252) |
 
 ## 🚀 Run the Project
 ```bash
