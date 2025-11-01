@@ -1,16 +1,21 @@
-# ali
+# 📝 Flutter To-Do App UI
 
-A new Flutter project.
+A clean and minimal **To-Do app user interface** built with Flutter.  
+This project focuses on layout, styling, and responsive design — no backend or task-saving logic is implemented yet.
 
-## Getting Started
+## 🎨 Features
+- Modern To-Do app layout
+- Responsive UI (mobile-friendly)
+- Based on Flutter Material widgets
 
-This project is a starting point for a Flutter application.
+## 🖼️ Preview
+| Home Screen | Task Card | Add Task Dialog |
+|--------------|------------|----------------|
+| ![Home](screenshots/home.png) | ![Card](screenshots/card.png) | ![Add](screenshots/add.png) |
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Run the Project
+```bash
+git clone https://github.com/alii-17/flutter_todo_app.git
+cd flutter_todo_app
+flutter pub get
+flutter run
